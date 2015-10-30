@@ -1,0 +1,15 @@
+{
+  "name": "LightWeightDemo.Backend",
+  "version": "0.0.0",
+  "description": "LightWeightDemo.Backend",
+  "main": "server.js",
+  "author": {
+    "name": "Glenn",
+    "email": ""
+  },
+  "dependencies": {
+    "mongodb": "2.0.47"
+
+  },
+  "start": "server.js"
+}
